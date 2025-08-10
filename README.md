@@ -62,6 +62,11 @@ Go to Firebase Console
 4.Paste into .env as shown above
 
 4️⃣ Start the Development Server
+```
+npm run dev
+```
+
+
 
 ```
 
@@ -81,7 +86,6 @@ Netflix-Clone/
 │-- README.md
 
 
-npm run dev
 ```
 App will run on: http://localhost:5000
 
