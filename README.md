@@ -66,7 +66,7 @@ Go to Firebase Console
 ```
 
 📂 Folder Structure
-```
+
 Netflix-Clone/
 │-- public/
 │-- src/
@@ -79,7 +79,7 @@ Netflix-Clone/
 │   └── index.js        # Entry point
 │-- package.json
 │-- README.md
-```
+
 
 npm run dev
 ```
